@@ -18,30 +18,30 @@ Java
 
 *   __output__
 
-        10 .
+        10 
 
     Prints 10, the value at the top of the stack.
 
 *   __addition__
 
-        10 2 + .
+        10 2 + 
 
-    Prints 12, the sum of 10 and 2.
+    Prints 12, the sum of 10 and 2
 
 *   __subtraction__
 
-        100 50 - .
+        100 50 - 
 
-    Prints 50.
+    Prints 50
 
 *   __division__
 
-        12 4 / .
+        12 4 / 
 
-    Prints 3.
+    Prints 3
 
 *   __multiplication__
 
-        3 3 * .
+        3 3 * 
 
-    Prints 9.
+    Prints 9
